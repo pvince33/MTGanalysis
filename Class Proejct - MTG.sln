@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2AAFCFBA-67AD-47C2-A223-BA2C9C256822}"
+	ProjectSection(SolutionItems) = preProject
+		CEDH deck creation info.csv = CEDH deck creation info.csv
+		CEDHdecklists.txt = CEDHdecklists.txt
+		MTGdatabase.sql = MTGdatabase.sql
+		MTGSimpleCardList.txt = MTGSimpleCardList.txt
+		ParadoxEnginePrice.csv = ParadoxEnginePrice.csv
+		releationships in BI.PNG = releationships in BI.PNG
+		SCG_ModernClassic.csv = SCG_ModernClassic.csv
+		SCGPittBridgevineLB.xlsx = SCGPittBridgevineLB.xlsx
+		SCGPittBurnJPW.txt = SCGPittBurnJPW.txt
+		SCGPittBurnJPW.xlsx = SCGPittBurnJPW.xlsx
+		SCGPittBurnWS.xlsx = SCGPittBurnWS.xlsx
+		SCGPittEsperSM.xlsx = SCGPittEsperSM.xlsx
+		SCGPittHumansJA.xlsx = SCGPittHumansJA.xlsx
+		SCGPittJundJF.xlsx = SCGPittJundJF.xlsx
+		SCGPittJundJL.xlsx = SCGPittJundJL.xlsx
+		SCGPittPheonixJF.xlsx = SCGPittPheonixJF.xlsx
+		Set Release Dates.csv = Set Release Dates.csv
+		TCGDecksWParadoxEngine.txt = TCGDecksWParadoxEngine.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7911A934-E986-446F-B65D-8423FBA79B93}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+Board	Qty	Card Name	Deck Name	Pilot
+Main	4	Goblin Guide	Burn	John Phillip Whetstone
+Main	4	Monastery Swiftspear	Burn	John Phillip Whetstone
+Main	4	Eidolon of the Great Revel	Burn	John Phillip Whetstone
+Main	3	Snow-Covered Mountain	Burn	John Phillip Whetstone
+Main	4	Bloodstained Mire	Burn	John Phillip Whetstone
+Main	4	Inspiring Vantage	Burn	John Phillip Whetstone
+Main	2	Sacred Foundry	Burn	John Phillip Whetstone
+Main	2	Scalding Tarn	Burn	John Phillip Whetstone
+Main	4	Sunbaked Canyon	Burn	John Phillip Whetstone
+Main	1	Wooded Foothills	Burn	John Phillip Whetstone
+Main	4	Boros Charm	Burn	John Phillip Whetstone
+Main	4	Lightning Bolt	Burn	John Phillip Whetstone
+Main	4	Lightning Helix	Burn	John Phillip Whetstone
+Main	4	Searing Blaze	Burn	John Phillip Whetstone
+Main	4	Lava Spike	Burn	John Phillip Whetstone
+Main	4	Rift Bolt	Burn	John Phillip Whetstone
+Main	4	Skewer the Critics	Burn	John Phillip Whetstone
+Side	3	Tormod's Crypt	Burn	John Phillip Whetstone
+Side	3	Rest in Peace	Burn	John Phillip Whetstone
+Side	3	Path to Exile	Burn	John Phillip Whetstone
+Side	4	Searing Blood	Burn	John Phillip Whetstone
+Side	2	Wear // Tear	Burn	John Phillip Whetstone

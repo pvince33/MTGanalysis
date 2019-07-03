@@ -1,0 +1,201 @@
+Event_ID,Event Name,Event Date,Format,Attendance,State,City
+1,Pannier,5/5/2019,Modern,76,Ohio,Toledo
+2,Fix San,8/11/2018,Modern,79,Texas,San Antonio
+3,Regrant,8/2/2018,Standard,67,Texas,El Paso
+4,Asoka,11/8/2018,Legacy,10,Pennsylvania,Philadelphia
+5,Alpha,3/9/2019,Modern,89,Kentucky,Louisville
+6,Job,5/15/2019,Legacy,43,Alabama,Birmingham
+7,Latlux,7/9/2018,Modern,22,Florida,West Palm Beach
+8,Latlux,11/3/2018,Legacy,73,Illinois,Chicago
+9,Transcof,11/2/2018,Legacy,5,Washington,Tacoma
+10,Voltsillam,3/27/2019,Vintage,20,Washington,Olympia
+11,Cardguard,3/10/2019,Modern,24,District of Columbia,Washington
+12,Prodder,11/14/2018,Commander,19,Maryland,Bowie
+13,Kanlam,8/23/2018,Commander,25,Missouri,Kansas City
+14,Vagram,6/2/2019,Commander,90,Connecticut,Hartford
+15,Mat Lam Tam,11/16/2018,Modern,43,Virginia,Arlington
+16,Sub-Ex,2/16/2019,Commander,77,California,Fresno
+17,Latlux,5/5/2019,Standard,82,Florida,Seminole
+18,Vagram,11/21/2018,Legacy,77,Georgia,Decatur
+19,Span,2/6/2019,Modern,37,Colorado,Colorado Springs
+20,Stronghold,12/24/2018,Modern,46,Colorado,Pueblo
+21,Zoolab,2/24/2019,Standard,80,Minnesota,Minneapolis
+22,Toughjoyfax,1/16/2019,Legacy,13,Nebraska,Omaha
+23,Kanlam,8/20/2018,Vintage,64,Arizona,Apache Junction
+24,Hatity,3/23/2019,Commander,11,Florida,Orlando
+25,Hatity,12/21/2018,Legacy,66,Colorado,Pueblo
+26,Stronghold,5/7/2019,Legacy,16,Louisiana,New Orleans
+27,Stronghold,4/27/2019,Legacy,90,Texas,Fort Worth
+28,Redhold,10/8/2018,Modern,95,Texas,San Antonio
+29,Toughjoyfax,5/22/2019,Vintage,10,Texas,El Paso
+30,Cookley,8/8/2018,Modern,10,Florida,Palm Bay
+31,Job,8/26/2018,Standard,58,California,San Mateo
+32,Bitchip,2/22/2019,Modern,9,Nebraska,Lincoln
+33,Veribet,4/11/2019,Legacy,99,Texas,Houston
+34,Bamity,7/24/2018,Legacy,6,Texas,Irving
+35,Pannier,11/20/2018,Legacy,61,Virginia,Reston
+36,Ventosanzap,10/4/2018,Legacy,65,Michigan,Lansing
+37,Andalax,9/18/2018,Vintage,86,New York,Utica
+38,Bitwolf,1/7/2019,Vintage,48,Kansas,Wichita
+39,Fixflex,2/24/2019,Standard,19,New Jersey,Jersey City
+40,Zontrax,7/7/2018,Modern,56,District of Columbia,Washington
+41,Solarbreeze,9/19/2018,Commander,51,Florida,Pensacola
+42,Cardguard,5/29/2019,Vintage,44,Georgia,Atlanta
+43,Alphazap,7/22/2018,Modern,5,California,Bakersfield
+44,Gembucket,5/31/2019,Standard,47,California,Santa Rosa
+45,Konklux,1/28/2019,Legacy,16,California,Bakersfield
+46,Aerified,11/18/2018,Legacy,34,Virginia,Roanoke
+47,Temp,12/15/2018,Modern,6,Maryland,Baltimore
+48,Otcom,1/16/2019,Legacy,66,Kansas,Wichita
+49,Zaam-Dox,2/6/2019,Vintage,21,Texas,Amarillo
+50,Flexidy,9/1/2018,Legacy,31,South Dakota,Sioux Falls
+51,Bitchip,9/2/2018,Legacy,71,Pennsylvania,Pittsburgh
+52,Flowdesk,5/24/2019,Commander,76,Virginia,Arlington
+53,Andalax,1/6/2019,Vintage,87,Florida,Largo
+54,Aerified,6/19/2019,Commander,65,Louisiana,New Orleans
+55,Rank,11/22/2018,Modern,69,New York,Albany
+56,Zontrax,11/7/2018,Modern,71,New York,Rochester
+57,Zoolab,6/2/2019,Modern,90,Alabama,Birmingham
+58,Stringtough,1/8/2019,Vintage,64,Pennsylvania,Philadelphia
+59,Subin,6/21/2019,Legacy,28,New York,Rochester
+60,Cardguard,4/17/2019,Vintage,38,New York,Bronx
+61,Andalax,10/22/2018,Modern,68,Washington,Kent
+62,Sonsing,3/1/2019,Commander,77,Minnesota,Minneapolis
+63,Flowdesk,11/29/2018,Legacy,5,California,Fullerton
+64,Bigtax,12/31/2018,Standard,35,Pennsylvania,Pittsburgh
+65,Hatity,4/8/2019,Legacy,21,New York,Rochester
+66,Kanlam,9/15/2018,Commander,25,Oregon,Portland
+67,Y-find,11/18/2018,Modern,72,Virginia,Roanoke
+68,Prodder,5/25/2019,Commander,88,District of Columbia,Washington
+69,Matsoft,12/10/2018,Standard,84,Texas,Texarkana
+70,Keylex,5/1/2019,Standard,68,Missouri,Kansas City
+71,Mat Lam Tam,9/10/2018,Commander,66,Tennessee,Knoxville
+72,Fintone,2/2/2019,Legacy,88,Kentucky,Lexington
+73,Flexidy,4/20/2019,Vintage,53,Texas,Irving
+74,Latlux,3/9/2019,Commander,32,Florida,Miami
+75,Bytecard,11/25/2018,Standard,52,Texas,Killeen
+76,Rank,6/28/2019,Commander,47,Arizona,Phoenix
+77,Vagram,7/23/2018,Vintage,22,New York,Brooklyn
+78,Treeflex,12/2/2018,Legacy,89,California,North Hollywood
+79,Bitwolf,12/27/2018,Modern,63,Michigan,Flint
+80,Solarbreeze,1/20/2019,Modern,22,Massachusetts,Boston
+81,Voltsillam,7/30/2018,Legacy,49,Florida,Orlando
+82,Wrapsafe,9/26/2018,Legacy,24,Ohio,Cleveland
+83,Cardguard,6/3/2019,Legacy,32,Florida,Naples
+84,Regrant,1/4/2019,Modern,76,Wisconsin,Madison
+85,Kanlam,7/16/2018,Vintage,46,Ohio,Columbus
+86,Bytecard,4/29/2019,Commander,26,California,South Lake Tahoe
+87,Transcof,7/6/2018,Standard,92,New York,Jamaica
+88,Regrant,3/15/2019,Modern,51,Illinois,Chicago
+89,Zathin,3/28/2019,Standard,67,California,Irvine
+90,Lotlux,10/8/2018,Modern,81,Minnesota,Minneapolis
+91,Opela,4/23/2019,Vintage,41,New York,Buffalo
+92,Latlux,11/5/2018,Standard,41,Colorado,Denver
+93,Zoolab,11/5/2018,Legacy,9,Texas,Houston
+94,Hatity,3/4/2019,Vintage,89,Virginia,Charlottesville
+95,Fix San,12/20/2018,Modern,76,California,Long Beach
+96,Tres-Zap,12/23/2018,Standard,94,New York,Rochester
+97,Konklab,3/19/2019,Legacy,66,Kansas,Wichita
+98,Greenlam,6/16/2019,Commander,96,Texas,Dallas
+99,Toughjoyfax,11/16/2018,Modern,15,Maryland,Baltimore
+100,Flexidy,12/15/2018,Standard,41,Illinois,Chicago
+101,Rank,4/9/2019,Legacy,77,Texas,Houston
+102,It,2/21/2019,Vintage,8,California,Los Angeles
+103,Tampflex,3/16/2019,Legacy,92,Florida,Tallahassee
+104,Home Ing,2/15/2019,Modern,88,District of Columbia,Washington
+105,Viva,9/22/2018,Standard,58,Tennessee,Nashville
+106,Otcom,3/6/2019,Modern,12,California,Santa Monica
+107,Subin,9/22/2018,Legacy,22,Georgia,Atlanta
+108,Toughjoyfax,10/21/2018,Vintage,41,Missouri,Saint Louis
+109,Bytecard,3/18/2019,Standard,57,Arizona,Apache Junction
+110,Flexidy,8/31/2018,Standard,12,New York,New York City
+111,Tresom,9/6/2018,Commander,60,Texas,Austin
+112,Ventosanzap,12/5/2018,Commander,35,Virginia,Richmond
+113,Biodex,8/11/2018,Standard,59,Pennsylvania,Mc Keesport
+114,Konklux,9/14/2018,Legacy,90,Nebraska,Lincoln
+115,Keylex,1/20/2019,Modern,25,New York,New York City
+116,Zontrax,7/1/2019,Modern,71,Arkansas,Little Rock
+117,Cardify,5/5/2019,Vintage,57,Texas,Amarillo
+118,Matsoft,8/9/2018,Legacy,48,Mississippi,Jackson
+119,Solarbreeze,12/23/2018,Vintage,47,Florida,Miami
+120,Tres-Zap,8/15/2018,Commander,56,South Dakota,Sioux Falls
+121,Bitchip,10/16/2018,Legacy,40,Arizona,Phoenix
+122,Zathin,10/19/2018,Standard,32,Alabama,Birmingham
+123,Flowdesk,7/5/2018,Modern,62,Illinois,Rockford
+124,Transcof,4/19/2019,Modern,86,North Carolina,Charlotte
+125,Bitwolf,6/24/2019,Legacy,34,Virginia,Roanoke
+126,Regrant,2/23/2019,Commander,34,Colorado,Aurora
+127,Voltsillam,3/25/2019,Modern,70,California,San Jose
+128,Tin,1/14/2019,Commander,92,Michigan,Flint
+129,Job,7/2/2019,Commander,22,Florida,Homestead
+130,Bytecard,6/12/2019,Modern,39,Massachusetts,Springfield
+131,Quo Lux,11/11/2018,Standard,7,Ohio,Cincinnati
+132,Y-find,6/18/2019,Standard,89,Florida,Sarasota
+133,Sub-Ex,5/27/2019,Legacy,31,Tennessee,Memphis
+134,Bamity,9/11/2018,Modern,41,Ohio,Columbus
+135,Ventosanzap,4/10/2019,Modern,4,Illinois,Peoria
+136,Lotstring,9/23/2018,Vintage,49,Louisiana,Baton Rouge
+137,Lotstring,9/15/2018,Modern,38,New York,Rochester
+138,Solarbreeze,3/30/2019,Legacy,8,Ohio,Cincinnati
+139,Keylex,8/18/2018,Commander,78,Colorado,Denver
+140,Subin,1/29/2019,Modern,20,Arizona,Phoenix
+141,Stim,2/27/2019,Vintage,38,Indiana,Evansville
+142,Tempsoft,7/6/2018,Modern,21,California,Richmond
+143,Job,4/11/2019,Vintage,19,Kansas,Topeka
+144,Solarbreeze,10/19/2018,Standard,61,Colorado,Boulder
+145,Redhold,7/30/2018,Modern,26,Virginia,Norfolk
+146,Namfix,7/1/2019,Commander,38,Mississippi,Jackson
+147,Fix San,11/4/2018,Standard,10,Texas,El Paso
+148,Regrant,9/6/2018,Legacy,6,Nevada,Reno
+149,Tin,6/14/2019,Standard,49,Louisiana,Baton Rouge
+150,Voltsillam,2/19/2019,Standard,72,Illinois,Chicago
+151,Flowdesk,10/28/2018,Commander,51,Indiana,Fort Wayne
+152,Tempsoft,11/15/2018,Commander,90,New Jersey,Trenton
+153,Transcof,2/28/2019,Modern,50,New York,New York City
+154,Home Ing,12/1/2018,Vintage,32,California,Northridge
+155,Lotlux,11/24/2018,Modern,82,Texas,Fort Worth
+156,Wrapsafe,10/5/2018,Legacy,10,Nebraska,Omaha
+157,Zaam-Dox,9/26/2018,Vintage,96,Texas,Houston
+158,Asoka,1/13/2019,Vintage,29,Florida,Miami
+159,Bigtax,6/15/2019,Commander,55,Mississippi,Jackson
+160,Cookley,12/18/2018,Standard,52,Kansas,Topeka
+161,Matsoft,6/27/2019,Modern,30,Florida,Miami
+162,Matsoft,8/14/2018,Commander,31,Massachusetts,Boston
+163,Zoolab,7/31/2018,Legacy,91,Texas,El Paso
+164,Viva,5/29/2019,Commander,40,California,Santa Barbara
+165,Fixflex,7/22/2018,Vintage,31,Colorado,Colorado Springs
+166,Fixflex,5/17/2019,Legacy,74,Arizona,Chandler
+167,Bitchip,11/13/2018,Standard,57,California,San Francisco
+168,Matsoft,1/19/2019,Commander,32,California,Oakland
+169,Bigtax,8/18/2018,Standard,44,Florida,Sarasota
+170,Vagram,12/20/2018,Standard,51,Arkansas,North Little Rock
+171,Konklux,3/30/2019,Commander,50,Georgia,Atlanta
+172,Regrant,9/28/2018,Commander,83,Texas,Dallas
+173,Duobam,7/19/2018,Modern,47,Nevada,Las Vegas
+174,Pannier,12/3/2018,Legacy,25,Kentucky,Louisville
+175,Subin,6/15/2019,Standard,15,Virginia,Herndon
+176,Zaam-Dox,12/16/2018,Modern,22,Florida,Jacksonville
+177,Quo Lux,3/22/2019,Vintage,36,Arizona,Phoenix
+178,Greenlam,8/19/2018,Standard,61,Kansas,Topeka
+179,Bytecard,5/18/2019,Modern,39,Ohio,Cincinnati
+180,Alphazap,8/31/2018,Commander,90,New York,New York City
+181,Alphazap,2/6/2019,Standard,6,Colorado,Denver
+182,Latlux,8/27/2018,Commander,61,Florida,Tallahassee
+183,Zamit,7/26/2018,Vintage,15,Florida,Hollywood
+184,Trippledex,4/2/2019,Commander,81,Alabama,Birmingham
+185,Stronghold,7/3/2018,Standard,30,Colorado,Colorado Springs
+186,Tampflex,2/28/2019,Standard,75,Arizona,Tucson
+187,Vagram,6/6/2019,Legacy,59,Pennsylvania,Pittsburgh
+188,Ronstring,4/7/2019,Vintage,63,Texas,Dallas
+189,Zamit,9/24/2018,Standard,99,Georgia,Alpharetta
+190,Treeflex,10/31/2018,Vintage,51,South Carolina,Anderson
+191,Sonair,3/29/2019,Vintage,84,Iowa,Des Moines
+192,Gembucket,10/11/2018,Modern,15,District of Columbia,Washington
+193,Bamity,3/6/2019,Vintage,19,Nebraska,Lincoln
+194,Rank,12/10/2018,Standard,20,Virginia,Lynchburg
+195,Kanlam,3/13/2019,Standard,68,Florida,Jacksonville
+196,Aerified,5/13/2019,Vintage,55,Illinois,Schaumburg
+197,Cardify,2/19/2019,Vintage,58,Florida,Jacksonville
+198,Sonair,8/30/2018,Modern,91,Massachusetts,Boston
+199,It,11/22/2018,Modern,82,Maryland,Baltimore
+200,Keylex,4/16/2019,Vintage,55,Missouri,Saint Louis

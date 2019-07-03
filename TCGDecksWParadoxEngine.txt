@@ -15,7 +15,6 @@ Urza Combo-Stax-Friend-Ender	JumboCommander	5/31/2019
 "Ezuri, Renegade Leader"	KingLonsur	5/31/2019
 Sydri Personal	Lellowlad	5/28/2019
 06/19 Kruphix test	B34RB0T	5/27/2019
-06/19 Kruphix test	B34RB0T	5/27/2019
 Urza Paradox Scepter	Jack-Henry B.	5/27/2019
 Jhoira -budget	Superawesomegoku	5/26/2019
 Feather Value Bounce	Jack-Henry B.	5/26/2019
@@ -94,7 +93,6 @@ Omnath Commander	Glitchy	11/29/2018
 Dimir fort of secrets	Jwdrizzt	11/19/2018
 EDH Etrata's Mirror Maze	Snowstorm Gaming	11/8/2018
 Yidris Chaining Superfriends	Stupid Guru	11/7/2018
-Isochron shenanigans	quose_stain	11/5/2018
 Isochron shenanigans	quose_stain	11/5/2018
 Dan's Wish List	daneelius	11/1/2018
 Aetherstorm	VolpeC	10/30/2018
@@ -288,8 +286,6 @@ Mono Blue paradox	Kelaria	4/17/2017
 2 color or 5 color?	EVGAFTW	4/11/2017
 Blue Storm	aidenpk	4/6/2017
 Dralnu	LHSpud22	4/3/2017
-Dralnu	LHSpud22	4/3/2017
-Dralnu	LHSpud22	4/3/2017
 Niv-Mizzet Thinks Really Hard and Kills Everyone	ajroncase	3/21/2017
 Emrakul has expensive lands	Dakyren	3/15/2017
 Mono Green Aggro	Kelaria	3/14/2017
@@ -314,7 +310,6 @@ Blah	Bkmky	2/2/2017
 Pia's eggs	D-Swift	2/1/2017
 Tezzy Metalworks	Darth Atreus	1/31/2017
 Quicksmith Crackdown	angryGTS	1/29/2017
-Breakfast on Doomsday 2.0	Violins	1/24/2017
 Breakfast on Doomsday 2.0	Violins	1/24/2017
 Sram's paradox	Petoskey	1/24/2017
 Infinity Paradox	Paradox Whispers	1/24/2017
